@@ -1,2 +1,2 @@
-.gradle
-.ideagit rm -r --cached .
+.gradle/
+.idea/
