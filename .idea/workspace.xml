@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../ideaworkspace/spring-framework-5.0.2.RELEASE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Arkham" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CrediNex" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Hive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Protoss" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../adapundi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../auth-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../javaLambdaModel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lovina" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../notification-center" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Arkham" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adapundi-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adapundi-qa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkademo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../javaLambdaModel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lovina" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/Arkham" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-41" />
+    <option name="y" value="501" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
